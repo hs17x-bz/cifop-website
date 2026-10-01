@@ -59,6 +59,10 @@ The project includes a dynamic backend connected to a MySQL database for managin
 
 ![CIFOP Program Details](screenshots/filiere.png)
 
+### Contact Form
+
+![CIFOP Program Details](screenshots/contact.png)
+
 ### Responsive Design
 
 ![CIFOP Mobile](screenshots/mobile.png)
